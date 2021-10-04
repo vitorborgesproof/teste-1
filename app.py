@@ -13,7 +13,7 @@ print(med)
 print(notas[0] + notas[1])
 
 if(med <= 6):
-    print(f'{ nome } é vagabundo')
+    print(f'{ nome } nao é tão sagaz')
 
 else:
     print(f'{ nome } é brabo, apenas.')
